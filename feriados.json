@@ -1,10 +1,12 @@
 {
   "2025-07-01":{
   "titulo":"Año nuevo",
-  "descripcion":"Celebración del inicio del año calendario."
+  "descripcion":"Celebración del inicio del año calendario.",
+  "imagen":"imagenes/imagen1.png"
 },
-  "2025-05-01":{
+  "2025-08-01":{
   "titulo":"Día del trabajador",
-  "descripcion":"Conmemoración internacional de los derechos laborales."
+  "descripcion":"Conmemoración internacional de los derechos laborales.",
+  "imagen":"imagenes/imagen2.png"
 }
 }
