@@ -1,12 +1,102 @@
 {
   "2025-06-20":{
   "titulo":"Pueblos Indígenas",
-  "descripcion":"Día Nacional de los Pueblos Indígenas.",
-  "imagen":"https://migueldonoso73.github.io/feriadosChile/imagenes/imagen1.png"
+  "descripcion":"Celebración de los pueblos originarios de Chile.",
+  "imagen":"https://migueldonoso73.github.io/feriadosChile/imagenes/2006.png"
   },
   "2025-06-29":{
   "titulo":"San Pedro y San Pablo",
   "descripcion":"Feriado religioso.",
   "imagen":"https://migueldonoso73.github.io/feriadosChile/imagenes/2906.png"
+},
+  "2025-07-16":{
+  "titulo":"Día de la Virgen del Carmen",
+  "descripcion":"Festividad religiosa en honor a la Virgen del Carmen.",
+  "imagen":"https://migueldonoso73.github.io/feriadosChile/imagenes/1607.png"
+},
+  "2025-08-15":{
+  "titulo":"Asunción de la Virgen",
+  "descripcion":"Conmemoración de la asunción de María en cuerpo y alma al Cielo.",
+  "imagen":"https://migueldonoso73.github.io/feriadosChile/imagenes/1508.png"
+},
+  "2025-09-18":{
+  "titulo":"Independencia Nacional",
+  "descripcion":"Aniversario de la Independencia de Chile.",
+  "imagen":"https://migueldonoso73.github.io/feriadosChile/imagenes/1809.png"
+},
+  "2025-09-19":{
+  "titulo":"Día de las Glorias del Ejército",
+  "descripcion":"Conmemoración de las victorias militares que han marcado la historia del país y rinde homenaje a todos aquellos hombres y mujeres que han servido en las Fuerzas Armadas.",
+  "imagen":"https://migueldonoso73.github.io/feriadosChile/imagenes/1909.png"
+},
+  "2025-10-12":{
+  "titulo":"Encuentro de Dos Mundos",
+  "descripcion":"Conmemoración de la llegada a América del navegante Cristóbal Colón en 1492.",
+  "imagen":"https://migueldonoso73.github.io/feriadosChile/imagenes/1210.png"
+},
+  "2025-10-31":{
+  "titulo":"Día de las Iglesias Evangélicas y Protestantes",
+  "descripcion":"Martín Lutero clavó sus 95 tesis en la puerta de una iglesia en Wittenberg.",
+  "imagen":"https://migueldonoso73.github.io/feriadosChile/imagenes/3110.png"
+},
+  "2025-11-01":{
+  "titulo":"Día de Todos los Santos",
+  "descripcion":"Jornada en la que se honra a todo los santos, y también a los seres queridos que han fallecido.",
+  "imagen":"https://migueldonoso73.github.io/feriadosChile/imagenes/0111.png"
+},
+  "2025-11-16":{
+  "titulo":"Elecciones Presidenciales y Parlamentarias",
+  "descripcion":"Votaciones para elección de Presidente de la República",
+  "imagen":"https://migueldonoso73.github.io/feriadosChile/imagenes/1611.png"
+},
+  "2025-11-22":{
+  "titulo":"cumpleaños de hermanito.",
+  "descripcion":"",
+  "imagen":"https://migueldonoso73.github.io/feriadosChile/imagenes/2211.png"
+},
+  "2025-12-08":{
+  "titulo":"Inmaculada Concepción",
+  "descripcion":"Conmemoración del nacimiento de la Virgen María.",
+  "imagen":"https://migueldonoso73.github.io/feriadosChile/imagenes/0812.png"
+},
+  "2025-12-25":{
+  "titulo":"Navidad",
+  "descripcion":"Celebración de el nacimiento de Jesucristo en la tradición cristiana.",
+  "imagen":"https://migueldonoso73.github.io/feriadosChile/imagenes/2512.png"
+},
+  "2026-01-01":{
+  "titulo":"Año Nuevo",
+  "descripcion":"Celebración en todo el mundo para marcar el comienzo de un nuevo año.",
+  "imagen":"https://migueldonoso73.github.io/feriadosChile/imagenes/0101.png"
+},
+  "2026-02-22":{
+  "titulo":"Cumpleaños de la Mona",
+  "descripcion":"...",
+  "imagen":"https://migueldonoso73.github.io/feriadosChile/imagenes/2202.png"
+},
+  "2026-04-03":{
+  "titulo":"Viernes Santo",
+  "descripcion":"Se recuerda la pasión y muerte en la cruz de Jesús de Nazaret, el Mesías.",
+  "imagen":"https://migueldonoso73.github.io/feriadosChile/imagenes/0304.png"
+},
+  "2026-04-04":{
+  "titulo":"Sábado Santo",
+  "descripcion":"Fecha que recuerda el paso de Jesucristo entre la muerte y la resurrección.",
+  "imagen":"https://migueldonoso73.github.io/feriadosChile/imagenes/0404.png"
+},
+  "2026-05-01":{
+  "titulo":"Día Nacional del Trabajo",
+  "descripcion":"Recuerda las luchas obreras del siglo XIX que dieron origen a conquistas laborales esenciales y que aún hoy inspiran movilizaciones en todo el mundo.",
+  "imagen":"https://migueldonoso73.github.io/feriadosChile/imagenes/0105.png"
+},
+  "2026-05-21":{
+  "titulo":"Día de las Glorias Navales",
+  "descripcion":"Fecha recuerda la heroica acción de la corbeta Esmeralda, comandada por el capitán Arturo Prat Chacón.",
+  "imagen":"https://migueldonoso73.github.io/feriadosChile/imagenes/2105.png"
+},
+  "2026-06-21":{
+  "titulo":"Pueblos Indígenas",
+  "descripcion":"Celebración de los pueblos originarios de Chile.",
+  "imagen":"https://migueldonoso73.github.io/feriadosChile/imagenes/2006.png"
 }
 }
