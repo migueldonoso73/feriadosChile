@@ -1,0 +1,18 @@
+{
+  "primero": {
+    "titulo": "Conducción a la defensiva",
+    "descripcion": "La conducción a la defensiva es una técnica de manejo que busca prevenir accidentes al anticipar y reaccionar adecuadamente ante situaciones potencialmente peligrosas en calles y carreteras."
+  },
+  "segndo": {
+    "titulo": "No hay fotos",
+    "descripcion": "no existen imagenes de este periodo."
+  },
+  "tercero": {
+    "titulo": "Uso de Extintor de Incendios",
+    "descripcion": "Cuando el incendio se produce y el fuego es pequeño o está recién iniciado, se puede apagar con un extintor. Para ello, hay que colocarse cerca del foco del fuego, dirigir el extintor a la base de la llama y accionarlo."
+  },
+  "cuarto": {
+    "titulo": "Planifica tus vacaciones",
+    "descripcion": "Planificar un viaje de vacaciones puede ser emocionante, pero también puede resultar abrumador si no se aborda con la debida organización."
+  }
+}
